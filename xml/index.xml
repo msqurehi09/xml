@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<network>
+
+    <Block xmlns:a="www.A.com">
+
+    <a:house>Fatima</a:house>
+    <a:pkg>10A</a:pkg>
+    <a:Id>0000</a:Id>
+    
+    </Block>
+
+    <Block1 xmlns:b="www.B.com">
+
+    <b:house>Fatima</b:house>
+    <b:pkg>10B</b:pkg>
+    <b:Id>1111</b:Id>
+    
+    </Block1>
+
+    <Block2 xmlns:c="www.C.com">
+
+    <c:house>Noor</c:house>
+    <c:pkg>10C</c:pkg>
+    <c:Id>2222</c:Id>
+    
+    </Block2>
+
+
+ 
+
+</network>
